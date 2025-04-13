@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Jeff MacNeill
+- 👀 I’m interested in backend development 
+- 🌱 I’m currently gaining more familiarity with FE/JS frameworks 
+- 💞️ Always looking forward to collaborating on any fun innovative projects
+- 📫 How to reach me: LinkedIn@jmacneill66
+
+<!---
+jmacneill66/jmacneill66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
