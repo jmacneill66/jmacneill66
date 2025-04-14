@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeff MacNeill
-- 👀 I’m interested in backend development mainly
-- 🌱 I’m currently gaining more familiarity with FE/JS frameworks 
-- 💞 Looking forward to collaborating on any fun innovative projects!
+- 👀 I'm mainly interested in backend development 
+- 🌱 Currently gaining more familiarity with FE/JS frameworks 
+- 💞 Looking forward to collaborating on any innovative projects!
 - 📫 How to reach me: LinkedIn@jmacneill
 
 <!---
